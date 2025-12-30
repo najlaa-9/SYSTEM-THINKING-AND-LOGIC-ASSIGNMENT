@@ -1,1 +1,14 @@
+FR1 : User Registration and Login
+The system shall allow users to register an account and log in using a valid username and password to access the system.
 
+FR2 : Browse and Search Books
+The system shall allow users to browse book categories and search for books by title,author or genre.
+
+FR3 : View Book Details
+The system sahll allow users to view detailed information of a selected book, including price, description, and availability.
+
+FR4 : Add Books to Shopping Cart
+The system shall allow users to add selected books to a shopping cart and update the quantity before checkout.
+
+FR5: Checkout and Place Order
+The system shall allow users to proceed to checkout,confirm their order, and receive an order confirmation after successful purchase.
