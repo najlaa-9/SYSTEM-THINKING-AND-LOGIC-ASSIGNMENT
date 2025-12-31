@@ -1,1 +1,15 @@
+(Browse and Search Books)
+
+	START
+		Display "Book Categories"
+		Display categorylist
+		Display “Enter category or search keyword : ”
+		Input userInput
+		IF userInput match category THEN
+			Display books from selected category
+		ElSE
+			Search books by title, author, or genre
+			Display search results
+		END IF
+	END
 
