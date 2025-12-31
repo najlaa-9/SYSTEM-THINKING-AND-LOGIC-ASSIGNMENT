@@ -1,1 +1,13 @@
+(Add Books to Shopping Cart)
 
+	START
+		Display selected book details
+		Display “Enter quantity :”
+		Input quantity
+		IF quantity <= book.stock THEN
+			Add book and quantity to cart
+			Display “added to cart”
+		ELSE
+			Display “No stock available”
+		ENDIF
+	END
